@@ -1,0 +1,42 @@
+[
+  {
+    "Description": "Evaporator Pressure",
+    "Service and Maintenance": [
+      "Regularly clean the evaporator coil and fins to maintain proper airflow",
+      "Check and clean the air filters to ensure proper air flow",
+      "Inspect and clean the condensate drain line to prevent blockages",
+      "Inspect and tighten electrical connections"
+    ],
+    "Causes for anomaly": [
+      "Low refrigerant charge",
+      "Dirty evaporator coil or air filters",
+      "Faulty expansion valve",
+      "Malfunctioning temperature sensor"
+    ],
+    "Role": "Evaporator pressure is an important parameter that indicates the refrigerant's pressure inside the evaporator, which affects the chiller's cooling capacity.",
+    "Root Causes": [
+      "Refrigerant leaks",
+      "Improper installation",
+      "Insufficient maintenance",
+      "Wear and tear of components"
+    ],
+    "Recommendations for Solution": [
+      "Inspect and repair refrigerant leaks",
+      "Clean or replace air filters and evaporator coil",
+      "Replace faulty expansion valve",
+      "Replace malfunctioning temperature sensor"
+    ],
+    "Preventive Actions": [
+      "Regularly inspect and maintain the chiller",
+      "Maintain proper refrigerant charge",
+      "Clean air filters and evaporator coil regularly",
+      "Inspect and replace faulty components"
+    ],
+    "Corrective Actions": [
+      "Recharge refrigerant",
+      "Clean or replace air filters and evaporator coil",
+      "Replace faulty expansion valve",
+      "Replace malfunctioning temperature sensor"
+    ]
+  }
+]

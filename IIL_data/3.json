@@ -1,0 +1,49 @@
+[
+  {
+    "Description": "Chilled Water Flow rate",
+    "Service and Maintenance": [
+      "Regularly clean the strainers on the chiller's water inlet",
+      "Ensure proper alignment and coupling of the motor and pump",
+      "Check and replace damaged or worn out valves, piping, or gaskets",
+      "Monitor and adjust flow rate as needed",
+      "Perform regular maintenance and cleaning of the evaporator and condenser coils"
+    ],
+    "Causes for anomaly": [
+      "Low water flow",
+      "High water flow",
+      "Clogged strainers or filters",
+      "Broken or damaged valves",
+      "Piping or gasket leaks",
+      "Pump or motor malfunction"
+    ],
+    "Role": "Chilled Water Flow rate plays a critical role in ensuring the proper functioning of an Industrial Chiller. It regulates the amount of water that circulates through the chiller's evaporator and condenser coils, allowing for efficient heat transfer and cooling.",
+    "Root Causes": [
+      "Poor water quality",
+      "Inadequate maintenance",
+      "Inaccurate flow sensors or measurement devices",
+      "Incorrectly sized piping or valves"
+    ],
+    "Recommendations for Solution": [
+      "Clean or replace clogged strainers and filters",
+      "Repair or replace broken or damaged valves, piping, or gaskets",
+      "Ensure proper alignment and coupling of the motor and pump",
+      "Monitor and adjust flow rate as needed",
+      "Install accurate flow sensors and measurement devices",
+      "Regularly maintain and clean the chiller's evaporator and condenser coils"
+    ],
+    "Preventive Actions": [
+      "Perform regular maintenance and cleaning of the chiller system",
+      "Regularly monitor and adjust flow rate",
+      "Use high-quality water and maintain proper water chemistry",
+      "Perform regular inspections and testing of the chiller's components"
+    ],
+    "Corrective Actions": [
+      "Clean or replace clogged strainers and filters",
+      "Repair or replace broken or damaged valves, piping, or gaskets",
+      "Ensure proper alignment and coupling of the motor and pump",
+      "Monitor and adjust flow rate as needed",
+      "Install accurate flow sensors and measurement devices",
+      "Regularly maintain and clean the chiller's evaporator and condenser coils"
+    ]
+  }
+]

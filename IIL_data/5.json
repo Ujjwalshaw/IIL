@@ -1,0 +1,47 @@
+[
+  {
+    "Description": "Evaporator Saturation Temperature",
+    "Service and Maintenance": [
+      "Check the refrigerant charge level",
+      "Check for any leaks in the refrigerant system",
+      "Clean the evaporator coil",
+      "Check for proper air flow across the evaporator coil",
+      "Inspect the expansion valve for proper operation",
+      "Check the superheat and subcooling values"
+    ],
+    "Causes for anomaly": [
+      "Insufficient refrigerant charge",
+      "Excessive refrigerant charge",
+      "Dirty evaporator coil",
+      "Low air flow across the evaporator coil",
+      "Faulty expansion valve",
+      "Incorrect superheat or subcooling values"
+    ],
+    "Role": "Evaporator Saturation Temperature is an important parameter that helps to determine the cooling capacity of the chiller. If the temperature is not within the specified range, it can cause a drop in cooling capacity and inefficient operation of the chiller.",
+    "Root Causes": [
+      "Low refrigerant charge",
+      "Dirty or clogged evaporator coil",
+      "Faulty expansion valve",
+      "Incorrect superheat or subcooling values"
+    ],
+    "Recommendations for Solution": [
+      "Charge the refrigerant to the specified level",
+      "Clean the evaporator coil",
+      "Replace the expansion valve if faulty",
+      "Adjust the superheat or subcooling values to the specified range"
+    ],
+    "Preventive Actions": [
+      "Regularly check the refrigerant charge level",
+      "Clean the evaporator coil at regular intervals",
+      "Maintain proper air flow across the evaporator coil",
+      "Periodically check the expansion valve for proper operation",
+      "Monitor the superheat and subcooling values"
+    ],
+    "Corrective Actions": [
+      "Charge the refrigerant to the specified level",
+      "Clean the evaporator coil",
+      "Replace the expansion valve if faulty",
+      "Adjust the superheat or subcooling values to the specified range"
+    ]
+  }
+]

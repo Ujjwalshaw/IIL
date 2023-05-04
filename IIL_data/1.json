@@ -1,0 +1,48 @@
+[
+  {
+    "Description": "Leaving Chilled Water Temperature",
+    "Service and Maintenance": [
+      "Regular cleaning of the evaporator and condenser coils",
+      "Checking and adjusting refrigerant levels",
+      "Inspecting and replacing worn or damaged parts",
+      "Calibrating temperature and pressure sensors",
+      "Monitoring and recording chiller performance"
+    ],
+    "Causes for anomaly": [
+      "Dirty or blocked evaporator or condenser coils",
+      "Refrigerant leaks",
+      "Malfunctioning compressor",
+      "Faulty expansion valve",
+      "Incorrect refrigerant charge",
+      "Sensor calibration issues"
+    ],
+    "Role": "The leaving chilled water temperature plays a critical role in the performance and efficiency of an industrial chiller. It is used to determine if the cooling process is functioning correctly.",
+    "Root Causes": [
+      "Dirty or blocked evaporator or condenser coils",
+      "Refrigerant leaks",
+      "Malfunctioning compressor",
+      "Faulty expansion valve",
+      "Incorrect refrigerant charge",
+      "Sensor calibration issues"
+    ],
+    "Recommendations for Solution": [
+      "Regular cleaning of the evaporator and condenser coils",
+      "Checking and adjusting refrigerant levels",
+      "Inspecting and replacing worn or damaged parts",
+      "Calibrating temperature and pressure sensors",
+      "Monitoring and recording chiller performance"
+    ],
+    "Preventive Actions": [
+      "Implement a regular maintenance schedule",
+      "Train personnel on proper chiller operation and maintenance procedures",
+      "Monitor leaving chilled water temperature and other key performance indicators",
+      "Replace worn or damaged parts before they cause larger issues"
+    ],
+    "Corrective Actions": [
+      "Identify the root cause of the leaving chilled water temperature anomaly",
+      "Repair or replace any damaged or malfunctioning parts",
+      "Adjust refrigerant levels or expansion valve settings as needed",
+      "Calibrate temperature and pressure sensors"
+    ]
+  }
+]

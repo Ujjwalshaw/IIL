@@ -1,0 +1,42 @@
+[
+  {
+    "Description": "Return Chilled Water Temperature",
+    "Service and Maintenance": [
+      "Inspect temperature sensors for accuracy",
+      "Check water flow rate and adjust if necessary",
+      "Clean heat exchanger if fouled with debris",
+      "Check for leaks in piping and repair as necessary"
+    ],
+    "Causes for anomaly": [
+      "Insufficient water flow rate",
+      "Faulty temperature sensors",
+      "Heat exchanger fouling",
+      "Air in the system"
+    ],
+    "Role": "Return chilled water temperature is an important parameter in determining the cooling capacity of the chiller",
+    "Root Causes": [
+      "Low water flow rate",
+      "Sensor malfunction",
+      "Fouled heat exchanger",
+      "Air pockets in the system"
+    ],
+    "Recommendations for Solution": [
+      "Increase water flow rate if possible",
+      "Replace faulty temperature sensors",
+      "Clean heat exchanger",
+      "Purge air from the system"
+    ],
+    "Preventive Actions": [
+      "Regular inspection and cleaning of the heat exchanger",
+      "Ensure proper water flow rate is maintained",
+      "Periodic sensor calibration",
+      "Purge air from the system regularly"
+    ],
+    "Corrective Actions": [
+      "Adjust water flow rate to achieve desired temperature",
+      "Replace faulty temperature sensors",
+      "Clean or replace fouled heat exchanger",
+      "Purge air from the system"
+    ]
+  }
+]
